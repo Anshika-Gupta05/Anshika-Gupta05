@@ -5,7 +5,6 @@
 💻 Full Stack Developer | MERN Stack Enthusiast <br>
 🚀 Passionate about building scalable web apps and AI/ML-based solutions <br>
 🌱 Exploring Cloud (GCP, AWS), DevOps, and System Design <br>
-🤝 Open to freelance & collaboration opportunities <br>
 </p>
 
 ---
