@@ -10,7 +10,6 @@
 ---
 
 ### 💼 Portfolio
-🔗 [Gamma Site Portfolio](https://anshikagupta-pchf3qs.gamma.site/)  
 🔗 [Netlify Portfolio](https://anshika-portfolio05.netlify.app/)
 
 ---
