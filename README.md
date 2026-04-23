@@ -1,54 +1,90 @@
-<h1>Hi there! 👋 I'm Anshika Gupta</h1>
+<h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
 
-<p>
-🎓 Final year Computer Science student <br>
-💻 Full Stack Developer | MERN Stack Enthusiast <br>
-🚀 Passionate about building scalable web apps and AI/ML-based solutions <br>
-🌱 Exploring Cloud (GCP, AWS), DevOps, and System Design <br>
+<p align="center">
+🚀 Software Engineer | AI/ML + Backend Systems <br>
+💡 Building scalable applications with real-world impact <br>
 </p>
 
 ---
 
-### 💼 Portfolio
-🔗 [Netlify Portfolio](https://anshika-portfolio05.netlify.app/)
+## 🧠 About Me
+
+I’m a software engineer focused on building **scalable systems, AI-driven applications, and high-performance backend architectures**.
+
+* 💻 Currently working as **Sr. Associate – App Dev at Sutherland Global Services**
+* 🧠 Specialized in **AI/ML systems, backend pipelines, and full-stack applications**
+* ⚡ Strong focus on **performance, scalability, and real-world impact**
+* 🌱 Exploring **System Design, Cloud (AWS/GCP), and Distributed Systems**
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-10385421b/)](https://www.linkedin.com/in/anshika-gupta-10385421b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaanshika974@gmail.com)
+## 🚀 Featured Work
+
+### 🔹 Hybrid Log Classifier — Production System
+
+* Multi-stage log pipeline (Elastic + BERT + LLM fallback)
+* 🧠 Intelligent log classification system
+* 🚀 Deployed in production at Sutherland
 
 ---
 
-## 🧑‍💻 Languages
+### 🔹 CureCare — Full Stack Healthcare Platform
 
-![Java](https://img.shields.io/badge/Java-FEAE36?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🚀 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+* Role-based MERN system for patients, doctors, and admins
+* 🔐 JWT authentication + Cloudinary media handling
+* ⚡ Achieved **<2s load time**
+* 📉 Reduced appointment friction significantly
 
 ---
 
-## 🗃️ Databases & Tools
+### 🔹 RespiraScan — AI Chest X-ray Detection
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* DenseNet121 trained on multi-disease dataset
+* 📊 Achieved **95%+ accuracy**
+* 🔍 Integrated Grad-CAM for explainability
+* 🌐 Deployed using Streamlit
+
+---
+
+### 🔹 Panic Disorder Detection
+
+* ML-based clinical decision support system
+* ⚡ Sub-second inference via Flask API
+* 📊 ~85% accuracy
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://portfolio-anshika-05.vercel.app/
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+Java • Python • JavaScript • C++ • SQL
+
+### ⚙️ Backend & Frameworks
+
+Node.js • Express.js • Flask • REST APIs
+
+### 🎨 Frontend
+
+React.js • Tailwind CSS
+
+### 🧠 AI/ML
+
+PyTorch • TensorFlow • Scikit-learn • LSTM • BERT
+
+### 🗄 Databases
+
+MongoDB • MySQL • Firebase
+
+### ☁️ Tools & Platforms
+
+Git • GitHub • Postman • VS Code • Cloudinary
 
 ---
 
@@ -61,11 +97,28 @@
 
 ---
 
-## 💡 Fun Fact
+## 🔗 Connect with Me
 
-> I love turning ideas into real-life web applications and solving real-world problems with code.  
-> My code is clean, efficient, and user-first. I'm a firm believer in **"learning by building."**
+* 💼 LinkedIn: https://www.linkedin.com/in/anshika-gupta-10385421b/
+* 📧 Email: [anshikagupta01.work@gmail.com](mailto:anshikagupta01.work@gmail.com)
+---
+
+## 🎯 What I Focus On
+
+* Building **scalable backend systems**
+* Designing **AI-driven solutions**
+* Writing **clean, efficient, production-ready code**
+* Solving **real-world engineering problems**
 
 ---
 
-_“Dream. Code. Repeat.”_
+## 💡 Philosophy
+
+> I believe in building systems that are not just functional,
+> but **scalable, explainable, and impactful**.
+
+---
+
+<p align="center">
+  ⚡ Always learning. Always building. ⚡
+</p>
